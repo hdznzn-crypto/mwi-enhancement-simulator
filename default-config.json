@@ -1,0 +1,2444 @@
+{
+  "recipes": {
+    "时空手套": {
+      "targetItem": "/items/chrono_gloves",
+      "targetLevel": 10,
+      "itemLevel": 80,
+      "enhanceCost": 1345,
+      "protectionItem": "/items/chrono_sphere",
+      "materials": [
+        {
+          "item": "/items/sorcerer_essence",
+          "quantity": 16,
+          "price": 130
+        },
+        {
+          "item": "/items/radiant_fabric",
+          "quantity": 3,
+          "price": 2900
+        }
+      ],
+      "characterConfig": {
+        "characterLevel": 200,
+        "observatoryLevel": 5,
+        "enhancingTea": false,
+        "superEnhancingTea": false,
+        "ultimateTea": true,
+        "luckTea": true,
+        "enhancerShirt": 0,
+        "enhancerPants": 0,
+        "enhancerGloves": 11.2,
+        "speedNecklace": 5.32,
+        "drinkConcentration": 11.2,
+        "enhancerBonus": 5.26,
+        "communityBuff": 29.5
+      }
+    },
+    "月神袍服": {
+      "targetItem": "/items/luna_robe_top",
+      "targetLevel": 10,
+      "itemLevel": 70,
+      "enhanceCost": 622,
+      "protectionItem": "/items/luna_wing",
+      "materials": [
+        {
+          "item": "/items/jungle_essence",
+          "quantity": 32,
+          "price": 48
+        },
+        {
+          "item": "/items/silk_fabric",
+          "quantity": 4,
+          "price": 1950
+        }
+      ],
+      "characterConfig": {
+        "characterLevel": 126,
+        "observatoryLevel": 5,
+        "enhancingTea": false,
+        "superEnhancingTea": false,
+        "ultimateTea": true,
+        "luckTea": true,
+        "enhancerShirt": 0,
+        "enhancerPants": 0,
+        "enhancerGloves": 11.2,
+        "speedNecklace": 5.32,
+        "drinkConcentration": 11.2,
+        "enhancerBonus": 5.26,
+        "communityBuff": 29.5
+      }
+    },
+    "鲸头鸛鞋": {
+      "targetItem": "/items/shoebill_shoes",
+      "targetLevel": 10,
+      "itemLevel": 30,
+      "enhanceCost": 82,
+      "protectionItem": "/items/shoebill_feather",
+      "materials": [
+        {
+          "item": "/items/swamp_essence",
+          "quantity": 16,
+          "price": 68
+        },
+        {
+          "item": "/items/reptile_leather",
+          "quantity": 1,
+          "price": 640
+        },
+        {
+          "item": "/items/linen_fabric",
+          "quantity": 1,
+          "price": 660
+        },
+        {
+          "item": "/items/rough_leather",
+          "quantity": 1,
+          "price": 540
+        },
+        {
+          "item": "/items/cotton_fabric",
+          "quantity": 1,
+          "price": 520
+        }
+      ],
+      "characterConfig": {
+        "characterLevel": 126,
+        "observatoryLevel": 5,
+        "enhancingTea": false,
+        "superEnhancingTea": false,
+        "ultimateTea": true,
+        "luckTea": true,
+        "enhancerShirt": 0,
+        "enhancerPants": 0,
+        "enhancerGloves": 11.2,
+        "speedNecklace": 5.32,
+        "drinkConcentration": 11.2,
+        "enhancerBonus": 5.26,
+        "communityBuff": 29.5
+      }
+    },
+    "神圣蒸馏器": {
+      "targetItem": "/items/holy_alembic",
+      "targetLevel": 10,
+      "itemLevel": 80,
+      "enhanceCost": 1345,
+      "protectionItem": "/items/holy_alembic",
+      "materials": [
+        {
+          "item": "/items/holy_cheese",
+          "quantity": 7,
+          "price": 2900
+        }
+      ],
+      "characterConfig": {
+        "characterLevel": 126,
+        "observatoryLevel": 5,
+        "enhancingTea": false,
+        "superEnhancingTea": false,
+        "ultimateTea": true,
+        "luckTea": true,
+        "enhancerShirt": 0,
+        "enhancerPants": 0,
+        "enhancerGloves": 11.2,
+        "speedNecklace": 5.32,
+        "drinkConcentration": 11.2,
+        "enhancerBonus": 5.26,
+        "communityBuff": 29.5
+      }
+    },
+    "巫师鞋": {
+      "targetItem": "/items/sorcerer_boots",
+      "targetLevel": 10,
+      "itemLevel": 65,
+      "enhanceCost": 439,
+      "protectionItem": "/items/sorcerers_sole",
+      "materials": [
+        {
+          "item": "/items/sorcerer_essence",
+          "quantity": 8,
+          "price": 130
+        },
+        {
+          "item": "/items/silk_fabric",
+          "quantity": 2,
+          "price": 1950
+        }
+      ],
+      "characterConfig": {
+        "characterLevel": 126,
+        "observatoryLevel": 5,
+        "enhancingTea": false,
+        "superEnhancingTea": false,
+        "ultimateTea": true,
+        "luckTea": true,
+        "enhancerShirt": 0,
+        "enhancerPants": 0,
+        "enhancerGloves": 11.2,
+        "speedNecklace": 5.32,
+        "drinkConcentration": 11.2,
+        "enhancerBonus": 5.26,
+        "communityBuff": 29.5
+      }
+    },
+    "半人马鞋": {
+      "targetItem": "/items/centaur_boots",
+      "targetLevel": 10,
+      "itemLevel": 65,
+      "enhanceCost": 439,
+      "protectionItem": "/items/centaur_hoof",
+      "materials": [
+        {
+          "item": "/items/jungle_essence",
+          "quantity": 8,
+          "price": 48
+        },
+        {
+          "item": "/items/beast_leather",
+          "quantity": 2,
+          "price": 1200
+        }
+      ],
+      "characterConfig": {
+        "characterLevel": 126,
+        "observatoryLevel": 5,
+        "enhancingTea": false,
+        "superEnhancingTea": false,
+        "ultimateTea": true,
+        "luckTea": true,
+        "enhancerShirt": 0,
+        "enhancerPants": 0,
+        "enhancerGloves": 11.2,
+        "speedNecklace": 5.32,
+        "drinkConcentration": 11.2,
+        "enhancerBonus": 5.26,
+        "communityBuff": 29.5
+      }
+    },
+    "月神袍裙": {
+      "targetItem": "/items/luna_robe_bottoms",
+      "targetLevel": 10,
+      "itemLevel": 70,
+      "enhanceCost": 622,
+      "protectionItem": "/items/luna_wing",
+      "materials": [
+        {
+          "item": "/items/jungle_essence",
+          "quantity": 28,
+          "price": 48
+        },
+        {
+          "item": "/items/beast_leather",
+          "quantity": 3,
+          "price": 1200
+        }
+      ],
+      "characterConfig": {
+        "characterLevel": 126,
+        "observatoryLevel": 5,
+        "enhancingTea": false,
+        "superEnhancingTea": false,
+        "ultimateTea": true,
+        "luckTea": true,
+        "enhancerShirt": 0,
+        "enhancerPants": 0,
+        "enhancerGloves": 11.2,
+        "speedNecklace": 5.32,
+        "drinkConcentration": 11.2,
+        "enhancerBonus": 5.26,
+        "communityBuff": 29.5
+      }
+    },
+    "北极熊鞋": {
+      "targetItem": "/items/polar_bear_shoes",
+      "targetLevel": 10,
+      "itemLevel": 65,
+      "enhanceCost": 439,
+      "protectionItem": "/items/polar_bear_fluff",
+      "materials": [
+        {
+          "item": "/items/bear_essence",
+          "quantity": 8,
+          "price": 90
+        },
+        {
+          "item": "/items/beast_leather",
+          "quantity": 2,
+          "price": 1200
+        }
+      ],
+      "characterConfig": {
+        "characterLevel": 126,
+        "observatoryLevel": 5,
+        "enhancingTea": false,
+        "superEnhancingTea": false,
+        "ultimateTea": true,
+        "luckTea": true,
+        "enhancerShirt": 0,
+        "enhancerPants": 0,
+        "enhancerGloves": 11.2,
+        "speedNecklace": 5.32,
+        "drinkConcentration": 11.2,
+        "enhancerBonus": 5.26,
+        "communityBuff": 29.5
+      }
+    },
+    "棕熊鞋": {
+      "targetItem": "/items/grizzly_bear_shoes",
+      "targetLevel": 10,
+      "itemLevel": 65,
+      "enhanceCost": 439,
+      "protectionItem": "/items/grizzly_bear_fluff",
+      "materials": [
+        {
+          "item": "/items/bear_essence",
+          "quantity": 8,
+          "price": 90
+        },
+        {
+          "item": "/items/beast_leather",
+          "quantity": 2,
+          "price": 1200
+        }
+      ],
+      "characterConfig": {
+        "characterLevel": 126,
+        "observatoryLevel": 5,
+        "enhancingTea": false,
+        "superEnhancingTea": false,
+        "ultimateTea": true,
+        "luckTea": true,
+        "enhancerShirt": 0,
+        "enhancerPants": 0,
+        "enhancerGloves": 11.2,
+        "speedNecklace": 5.32,
+        "drinkConcentration": 11.2,
+        "enhancerBonus": 5.26,
+        "communityBuff": 29.5
+      }
+    },
+    "黑熊鞋": {
+      "targetItem": "/items/black_bear_shoes",
+      "targetLevel": 10,
+      "itemLevel": 65,
+      "enhanceCost": 439,
+      "protectionItem": "/items/black_bear_fluff",
+      "materials": [
+        {
+          "item": "/items/bear_essence",
+          "quantity": 8,
+          "price": 90
+        },
+        {
+          "item": "/items/beast_leather",
+          "quantity": 2,
+          "price": 1200
+        }
+      ],
+      "characterConfig": {
+        "characterLevel": 126,
+        "observatoryLevel": 5,
+        "enhancingTea": false,
+        "superEnhancingTea": false,
+        "ultimateTea": true,
+        "luckTea": true,
+        "enhancerShirt": 0,
+        "enhancerPants": 0,
+        "enhancerGloves": 11.2,
+        "speedNecklace": 5.32,
+        "drinkConcentration": 11.2,
+        "enhancerBonus": 5.26,
+        "communityBuff": 29.5
+      }
+    },
+    "神射护腕": {
+      "targetItem": "/items/marksman_bracers",
+      "targetLevel": 10,
+      "itemLevel": 95,
+      "enhanceCost": 4815,
+      "protectionItem": "/items/marksman_brooch",
+      "materials": [
+        {
+          "item": "/items/pirate_essence",
+          "quantity": 8,
+          "price": 1950
+        },
+        {
+          "item": "/items/umbral_leather",
+          "quantity": 4,
+          "price": 2200
+        }
+      ],
+      "characterConfig": {
+        "characterLevel": 126,
+        "observatoryLevel": 5,
+        "enhancingTea": false,
+        "superEnhancingTea": false,
+        "ultimateTea": true,
+        "luckTea": true,
+        "enhancerShirt": 0,
+        "enhancerPants": 0,
+        "enhancerGloves": 11.2,
+        "speedNecklace": 5.32,
+        "drinkConcentration": 11.2,
+        "enhancerBonus": 5.26,
+        "communityBuff": 29.5
+      }
+    },
+    "瞄准护腕": {
+      "targetItem": "/items/sighted_bracers",
+      "targetLevel": 10,
+      "itemLevel": 60,
+      "enhanceCost": 319,
+      "protectionItem": "/items/magnifying_glass",
+      "materials": [
+        {
+          "item": "/items/eyessence",
+          "quantity": 8,
+          "price": 37
+        },
+        {
+          "item": "/items/beast_leather",
+          "quantity": 2,
+          "price": 1200
+        }
+      ],
+      "characterConfig": {
+        "characterLevel": 126,
+        "observatoryLevel": 5,
+        "enhancingTea": false,
+        "superEnhancingTea": false,
+        "ultimateTea": true,
+        "luckTea": true,
+        "enhancerShirt": 0,
+        "enhancerPants": 0,
+        "enhancerGloves": 11.2,
+        "speedNecklace": 5.32,
+        "drinkConcentration": 11.2,
+        "enhancerBonus": 5.26,
+        "communityBuff": 29.5
+      }
+    },
+    "渡渡驼护手": {
+      "targetItem": "/items/dodocamel_gauntlets",
+      "targetLevel": 10,
+      "itemLevel": 95,
+      "enhanceCost": 4815,
+      "protectionItem": "/items/dodocamel_plume",
+      "materials": [
+        {
+          "item": "/items/chimerical_essence",
+          "quantity": 16,
+          "price": 840
+        },
+        {
+          "item": "/items/holy_cheese",
+          "quantity": 4,
+          "price": 2900
+        }
+      ],
+      "characterConfig": {
+        "characterLevel": 126,
+        "observatoryLevel": 5,
+        "enhancingTea": false,
+        "superEnhancingTea": false,
+        "ultimateTea": true,
+        "luckTea": true,
+        "enhancerShirt": 0,
+        "enhancerPants": 0,
+        "enhancerGloves": 11.2,
+        "speedNecklace": 5.32,
+        "drinkConcentration": 11.2,
+        "enhancerBonus": 5.26,
+        "communityBuff": 29.5
+      }
+    },
+    "磁力手套": {
+      "targetItem": "/items/magnetic_gloves",
+      "targetLevel": 10,
+      "itemLevel": 95,
+      "enhanceCost": 2034,
+      "protectionItem": "/items/magnet",
+      "materials": [
+        {
+          "item": "/items/golem_essence",
+          "quantity": 8,
+          "price": 260
+        },
+        {
+          "item": "/items/holy_cheese",
+          "quantity": 2,
+          "price": 2900
+        }
+      ],
+      "characterConfig": {
+        "characterLevel": 126,
+        "observatoryLevel": 5,
+        "enhancingTea": false,
+        "superEnhancingTea": false,
+        "ultimateTea": true,
+        "luckTea": true,
+        "enhancerShirt": 0,
+        "enhancerPants": 0,
+        "enhancerGloves": 11.2,
+        "speedNecklace": 5.32,
+        "drinkConcentration": 11.2,
+        "enhancerBonus": 5.26,
+        "communityBuff": 29.5
+      }
+    },
+    "熊猫手套": {
+      "targetItem": "/items/panda_gloves",
+      "targetLevel": 10,
+      "itemLevel": 65,
+      "enhanceCost": 439,
+      "protectionItem": "/items/panda_fluff",
+      "materials": [
+        {
+          "item": "/items/bear_essence",
+          "quantity": 8,
+          "price": 90
+        },
+        {
+          "item": "/items/rainbow_cheese",
+          "quantity": 2,
+          "price": 2000
+        }
+      ],
+      "characterConfig": {
+        "characterLevel": 126,
+        "observatoryLevel": 5,
+        "enhancingTea": false,
+        "superEnhancingTea": false,
+        "ultimateTea": true,
+        "luckTea": true,
+        "enhancerShirt": 0,
+        "enhancerPants": 0,
+        "enhancerGloves": 11.2,
+        "speedNecklace": 5.32,
+        "drinkConcentration": 11.2,
+        "enhancerBonus": 5.26,
+        "communityBuff": 29.5
+      }
+    },
+    "附魔手套": {
+      "targetItem": "/items/enchanted_gloves",
+      "targetLevel": 10,
+      "itemLevel": 60,
+      "enhanceCost": 319,
+      "protectionItem": "/items/chrono_sphere",
+      "materials": [
+        {
+          "item": "/items/sorcerer_essence",
+          "quantity": 30,
+          "price": 130
+        },
+        {
+          "item": "/items/umbral_leather",
+          "quantity": 2,
+          "price": 2200
+        },
+        {
+          "item": "/items/radiant_fabric",
+          "quantity": 2,
+          "price": 2900
+        },
+        {
+          "item": "/items/beast_leather",
+          "quantity": 2,
+          "price": 1200
+        },
+        {
+          "item": "/items/silk_fabric",
+          "quantity": 2,
+          "price": 1950
+        }
+      ],
+      "characterConfig": {
+        "characterLevel": 126,
+        "observatoryLevel": 5,
+        "enhancingTea": false,
+        "superEnhancingTea": false,
+        "ultimateTea": true,
+        "luckTea": true,
+        "enhancerShirt": 0,
+        "enhancerPants": 0,
+        "enhancerGloves": 11.2,
+        "speedNecklace": 5.32,
+        "drinkConcentration": 11.2,
+        "enhancerBonus": 5.26,
+        "communityBuff": 29.5
+      }
+    },
+    "皇家火系袍裙": {
+      "targetItem": "/items/royal_fire_robe_bottoms",
+      "targetLevel": 10,
+      "itemLevel": 95,
+      "enhanceCost": 4815,
+      "protectionItem": "/items/royal_cloth",
+      "materials": [
+        {
+          "item": "/items/enchanted_essence",
+          "quantity": 14,
+          "price": 1600
+        },
+        {
+          "item": "/items/radiant_fabric",
+          "quantity": 6,
+          "price": 2900
+        }
+      ],
+      "characterConfig": {
+        "characterLevel": 126,
+        "observatoryLevel": 5,
+        "enhancingTea": false,
+        "superEnhancingTea": false,
+        "ultimateTea": true,
+        "luckTea": true,
+        "enhancerShirt": 0,
+        "enhancerPants": 0,
+        "enhancerGloves": 11.2,
+        "speedNecklace": 5.32,
+        "drinkConcentration": 11.2,
+        "enhancerBonus": 5.26,
+        "communityBuff": 29.5
+      }
+    },
+    "皇家自然系袍裙": {
+      "targetItem": "/items/royal_nature_robe_bottoms",
+      "targetLevel": 10,
+      "itemLevel": 95,
+      "enhanceCost": 4815,
+      "protectionItem": "/items/royal_cloth",
+      "materials": [
+        {
+          "item": "/items/enchanted_essence",
+          "quantity": 14,
+          "price": 1600
+        },
+        {
+          "item": "/items/radiant_fabric",
+          "quantity": 6,
+          "price": 2900
+        }
+      ],
+      "characterConfig": {
+        "characterLevel": 126,
+        "observatoryLevel": 5,
+        "enhancingTea": false,
+        "superEnhancingTea": false,
+        "ultimateTea": true,
+        "luckTea": true,
+        "enhancerShirt": 0,
+        "enhancerPants": 0,
+        "enhancerGloves": 11.2,
+        "speedNecklace": 5.32,
+        "drinkConcentration": 11.2,
+        "enhancerBonus": 5.26,
+        "communityBuff": 29.5
+      }
+    },
+    "皇家水系袍裙": {
+      "targetItem": "/items/royal_water_robe_bottoms",
+      "targetLevel": 10,
+      "itemLevel": 95,
+      "enhanceCost": 4815,
+      "protectionItem": "/items/royal_cloth",
+      "materials": [
+        {
+          "item": "/items/enchanted_essence",
+          "quantity": 14,
+          "price": 1600
+        },
+        {
+          "item": "/items/radiant_fabric",
+          "quantity": 6,
+          "price": 2900
+        }
+      ],
+      "characterConfig": {
+        "characterLevel": 126,
+        "observatoryLevel": 5,
+        "enhancingTea": false,
+        "superEnhancingTea": false,
+        "ultimateTea": true,
+        "luckTea": true,
+        "enhancerShirt": 0,
+        "enhancerPants": 0,
+        "enhancerGloves": 11.2,
+        "speedNecklace": 5.32,
+        "drinkConcentration": 11.2,
+        "enhancerBonus": 5.26,
+        "communityBuff": 29.5
+      }
+    },
+    "克拉肯皮裤": {
+      "targetItem": "/items/kraken_chaps",
+      "targetLevel": 10,
+      "itemLevel": 95,
+      "enhanceCost": 4815,
+      "protectionItem": "/items/kraken_leather",
+      "materials": [
+        {
+          "item": "/items/pirate_essence",
+          "quantity": 14,
+          "price": 1950
+        },
+        {
+          "item": "/items/umbral_leather",
+          "quantity": 6,
+          "price": 2200
+        }
+      ],
+      "characterConfig": {
+        "characterLevel": 126,
+        "observatoryLevel": 5,
+        "enhancingTea": false,
+        "superEnhancingTea": false,
+        "ultimateTea": true,
+        "luckTea": true,
+        "enhancerShirt": 0,
+        "enhancerPants": 0,
+        "enhancerGloves": 11.2,
+        "speedNecklace": 5.32,
+        "drinkConcentration": 11.2,
+        "enhancerBonus": 5.26,
+        "communityBuff": 29.5
+      }
+    },
+    "狮鹫皮裤": {
+      "targetItem": "/items/griffin_chaps",
+      "targetLevel": 10,
+      "itemLevel": 85,
+      "enhanceCost": 2034,
+      "protectionItem": "/items/griffin_leather",
+      "materials": [
+        {
+          "item": "/items/chimerical_essence",
+          "quantity": 14,
+          "price": 840
+        },
+        {
+          "item": "/items/umbral_leather",
+          "quantity": 2,
+          "price": 2200
+        },
+        {
+          "item": "/items/holy_cheese",
+          "quantity": 2,
+          "price": 2900
+        }
+      ],
+      "characterConfig": {
+        "characterLevel": 126,
+        "observatoryLevel": 5,
+        "enhancingTea": false,
+        "superEnhancingTea": false,
+        "ultimateTea": true,
+        "luckTea": true,
+        "enhancerShirt": 0,
+        "enhancerPants": 0,
+        "enhancerGloves": 11.2,
+        "speedNecklace": 5.32,
+        "drinkConcentration": 11.2,
+        "enhancerBonus": 5.26,
+        "communityBuff": 29.5
+      }
+    },
+    "亡灵皮裤": {
+      "targetItem": "/items/revenant_chaps",
+      "targetLevel": 10,
+      "itemLevel": 85,
+      "enhanceCost": 2034,
+      "protectionItem": "/items/revenant_anima",
+      "materials": [
+        {
+          "item": "/items/twilight_essence",
+          "quantity": 28,
+          "price": 260
+        },
+        {
+          "item": "/items/umbral_leather",
+          "quantity": 4,
+          "price": 2200
+        }
+      ],
+      "characterConfig": {
+        "characterLevel": 126,
+        "observatoryLevel": 5,
+        "enhancingTea": false,
+        "superEnhancingTea": false,
+        "ultimateTea": true,
+        "luckTea": true,
+        "enhancerShirt": 0,
+        "enhancerPants": 0,
+        "enhancerGloves": 11.2,
+        "speedNecklace": 5.32,
+        "drinkConcentration": 11.2,
+        "enhancerBonus": 5.26,
+        "communityBuff": 29.5
+      }
+    },
+    "怒涛腿甲": {
+      "targetItem": "/items/maelstrom_plate_legs",
+      "targetLevel": 10,
+      "itemLevel": 95,
+      "enhanceCost": 4815,
+      "protectionItem": "/items/maelstrom_plating",
+      "materials": [
+        {
+          "item": "/items/pirate_essence",
+          "quantity": 14,
+          "price": 1950
+        },
+        {
+          "item": "/items/holy_cheese",
+          "quantity": 6,
+          "price": 2900
+        }
+      ],
+      "characterConfig": {
+        "characterLevel": 126,
+        "observatoryLevel": 5,
+        "enhancingTea": false,
+        "superEnhancingTea": false,
+        "ultimateTea": true,
+        "luckTea": true,
+        "enhancerShirt": 0,
+        "enhancerPants": 0,
+        "enhancerGloves": 11.2,
+        "speedNecklace": 5.32,
+        "drinkConcentration": 11.2,
+        "enhancerBonus": 5.26,
+        "communityBuff": 29.5
+      }
+    },
+    "锚定腿甲": {
+      "targetItem": "/items/anchorbound_plate_legs",
+      "targetLevel": 10,
+      "itemLevel": 95,
+      "enhanceCost": 4815,
+      "protectionItem": "/items/damaged_anchor",
+      "materials": [
+        {
+          "item": "/items/pirate_essence",
+          "quantity": 14,
+          "price": 1950
+        },
+        {
+          "item": "/items/holy_cheese",
+          "quantity": 6,
+          "price": 2900
+        }
+      ],
+      "characterConfig": {
+        "characterLevel": 126,
+        "observatoryLevel": 5,
+        "enhancingTea": false,
+        "superEnhancingTea": false,
+        "ultimateTea": true,
+        "luckTea": true,
+        "enhancerShirt": 0,
+        "enhancerPants": 0,
+        "enhancerGloves": 11.2,
+        "speedNecklace": 5.32,
+        "drinkConcentration": 11.2,
+        "enhancerBonus": 5.26,
+        "communityBuff": 29.5
+      }
+    },
+    "恶魔腿甲": {
+      "targetItem": "/items/demonic_plate_legs",
+      "targetLevel": 10,
+      "itemLevel": 85,
+      "enhanceCost": 2034,
+      "protectionItem": "/items/demonic_core",
+      "materials": [
+        {
+          "item": "/items/abyssal_essence",
+          "quantity": 28,
+          "price": 260
+        },
+        {
+          "item": "/items/holy_cheese",
+          "quantity": 3,
+          "price": 2900
+        }
+      ],
+      "characterConfig": {
+        "characterLevel": 126,
+        "observatoryLevel": 5,
+        "enhancingTea": false,
+        "superEnhancingTea": false,
+        "ultimateTea": true,
+        "luckTea": true,
+        "enhancerShirt": 0,
+        "enhancerPants": 0,
+        "enhancerGloves": 11.2,
+        "speedNecklace": 5.32,
+        "drinkConcentration": 11.2,
+        "enhancerBonus": 5.26,
+        "communityBuff": 29.5
+      }
+    },
+    "巨像腿甲": {
+      "targetItem": "/items/colossus_plate_legs",
+      "targetLevel": 10,
+      "itemLevel": 85,
+      "enhanceCost": 2034,
+      "protectionItem": "/items/colossus_core",
+      "materials": [
+        {
+          "item": "/items/golem_essence",
+          "quantity": 28,
+          "price": 260
+        },
+        {
+          "item": "/items/holy_cheese",
+          "quantity": 3,
+          "price": 2900
+        }
+      ],
+      "characterConfig": {
+        "characterLevel": 126,
+        "observatoryLevel": 5,
+        "enhancingTea": false,
+        "superEnhancingTea": false,
+        "ultimateTea": true,
+        "luckTea": true,
+        "enhancerShirt": 0,
+        "enhancerPants": 0,
+        "enhancerGloves": 11.2,
+        "speedNecklace": 5.32,
+        "drinkConcentration": 11.2,
+        "enhancerBonus": 5.26,
+        "communityBuff": 29.5
+      }
+    },
+    "皇家火系袍服": {
+      "targetItem": "/items/royal_fire_robe_top",
+      "targetLevel": 10,
+      "itemLevel": 95,
+      "enhanceCost": 4815,
+      "protectionItem": "/items/royal_cloth",
+      "materials": [
+        {
+          "item": "/items/enchanted_essence",
+          "quantity": 16,
+          "price": 1600
+        },
+        {
+          "item": "/items/radiant_fabric",
+          "quantity": 8,
+          "price": 2900
+        }
+      ],
+      "characterConfig": {
+        "characterLevel": 126,
+        "observatoryLevel": 5,
+        "enhancingTea": false,
+        "superEnhancingTea": false,
+        "ultimateTea": true,
+        "luckTea": true,
+        "enhancerShirt": 0,
+        "enhancerPants": 0,
+        "enhancerGloves": 11.2,
+        "speedNecklace": 5.32,
+        "drinkConcentration": 11.2,
+        "enhancerBonus": 5.26,
+        "communityBuff": 29.5
+      }
+    },
+    "皇家自然系袍服": {
+      "targetItem": "/items/royal_nature_robe_top",
+      "targetLevel": 10,
+      "itemLevel": 95,
+      "enhanceCost": 4815,
+      "protectionItem": "/items/royal_cloth",
+      "materials": [
+        {
+          "item": "/items/enchanted_essence",
+          "quantity": 16,
+          "price": 1600
+        },
+        {
+          "item": "/items/radiant_fabric",
+          "quantity": 8,
+          "price": 2900
+        }
+      ],
+      "characterConfig": {
+        "characterLevel": 126,
+        "observatoryLevel": 5,
+        "enhancingTea": false,
+        "superEnhancingTea": false,
+        "ultimateTea": true,
+        "luckTea": true,
+        "enhancerShirt": 0,
+        "enhancerPants": 0,
+        "enhancerGloves": 11.2,
+        "speedNecklace": 5.32,
+        "drinkConcentration": 11.2,
+        "enhancerBonus": 5.26,
+        "communityBuff": 29.5
+      }
+    },
+    "皇家水系袍服": {
+      "targetItem": "/items/royal_water_robe_top",
+      "targetLevel": 10,
+      "itemLevel": 95,
+      "enhanceCost": 4815,
+      "protectionItem": "/items/royal_cloth",
+      "materials": [
+        {
+          "item": "/items/enchanted_essence",
+          "quantity": 16,
+          "price": 1600
+        },
+        {
+          "item": "/items/radiant_fabric",
+          "quantity": 8,
+          "price": 2900
+        }
+      ],
+      "characterConfig": {
+        "characterLevel": 126,
+        "observatoryLevel": 5,
+        "enhancingTea": false,
+        "superEnhancingTea": false,
+        "ultimateTea": true,
+        "luckTea": true,
+        "enhancerShirt": 0,
+        "enhancerPants": 0,
+        "enhancerGloves": 11.2,
+        "speedNecklace": 5.32,
+        "drinkConcentration": 11.2,
+        "enhancerBonus": 5.26,
+        "communityBuff": 29.5
+      }
+    },
+    "克拉肯皮衣": {
+      "targetItem": "/items/kraken_tunic",
+      "targetLevel": 10,
+      "itemLevel": 95,
+      "enhanceCost": 4815,
+      "protectionItem": "/items/kraken_leather",
+      "materials": [
+        {
+          "item": "/items/pirate_essence",
+          "quantity": 16,
+          "price": 1950
+        },
+        {
+          "item": "/items/umbral_leather",
+          "quantity": 8,
+          "price": 2200
+        }
+      ],
+      "characterConfig": {
+        "characterLevel": 126,
+        "observatoryLevel": 5,
+        "enhancingTea": false,
+        "superEnhancingTea": false,
+        "ultimateTea": true,
+        "luckTea": true,
+        "enhancerShirt": 0,
+        "enhancerPants": 0,
+        "enhancerGloves": 11.2,
+        "speedNecklace": 5.32,
+        "drinkConcentration": 11.2,
+        "enhancerBonus": 5.26,
+        "communityBuff": 29.5
+      }
+    },
+    "狮鹫皮衣": {
+      "targetItem": "/items/griffin_tunic",
+      "targetLevel": 10,
+      "itemLevel": 85,
+      "enhanceCost": 2034,
+      "protectionItem": "/items/griffin_leather",
+      "materials": [
+        {
+          "item": "/items/chimerical_essence",
+          "quantity": 16,
+          "price": 840
+        },
+        {
+          "item": "/items/umbral_leather",
+          "quantity": 3,
+          "price": 2200
+        },
+        {
+          "item": "/items/holy_cheese",
+          "quantity": 2,
+          "price": 2900
+        }
+      ],
+      "characterConfig": {
+        "characterLevel": 126,
+        "observatoryLevel": 5,
+        "enhancingTea": false,
+        "superEnhancingTea": false,
+        "ultimateTea": true,
+        "luckTea": true,
+        "enhancerShirt": 0,
+        "enhancerPants": 0,
+        "enhancerGloves": 11.2,
+        "speedNecklace": 5.32,
+        "drinkConcentration": 11.2,
+        "enhancerBonus": 5.26,
+        "communityBuff": 29.5
+      }
+    },
+    "亡灵皮衣": {
+      "targetItem": "/items/revenant_tunic",
+      "targetLevel": 10,
+      "itemLevel": 85,
+      "enhanceCost": 2034,
+      "protectionItem": "/items/revenant_anima",
+      "materials": [
+        {
+          "item": "/items/twilight_essence",
+          "quantity": 32,
+          "price": 260
+        },
+        {
+          "item": "/items/umbral_leather",
+          "quantity": 5,
+          "price": 2200
+        }
+      ],
+      "characterConfig": {
+        "characterLevel": 126,
+        "observatoryLevel": 5,
+        "enhancingTea": false,
+        "superEnhancingTea": false,
+        "ultimateTea": true,
+        "luckTea": true,
+        "enhancerShirt": 0,
+        "enhancerPants": 0,
+        "enhancerGloves": 11.2,
+        "speedNecklace": 5.32,
+        "drinkConcentration": 11.2,
+        "enhancerBonus": 5.26,
+        "communityBuff": 29.5
+      }
+    },
+    "怒涛胸甲": {
+      "targetItem": "/items/maelstrom_plate_legs",
+      "targetLevel": 10,
+      "itemLevel": 95,
+      "enhanceCost": 4815,
+      "protectionItem": "/items/maelstrom_plating",
+      "materials": [
+        {
+          "item": "/items/pirate_essence",
+          "quantity": 14,
+          "price": 1950
+        },
+        {
+          "item": "/items/holy_cheese",
+          "quantity": 6,
+          "price": 2900
+        }
+      ],
+      "characterConfig": {
+        "characterLevel": 126,
+        "observatoryLevel": 5,
+        "enhancingTea": false,
+        "superEnhancingTea": false,
+        "ultimateTea": true,
+        "luckTea": true,
+        "enhancerShirt": 0,
+        "enhancerPants": 0,
+        "enhancerGloves": 11.2,
+        "speedNecklace": 5.32,
+        "drinkConcentration": 11.2,
+        "enhancerBonus": 5.26,
+        "communityBuff": 29.5
+      }
+    },
+    "锚定胸甲": {
+      "targetItem": "/items/anchorbound_plate_legs",
+      "targetLevel": 10,
+      "itemLevel": 95,
+      "enhanceCost": 4815,
+      "protectionItem": "/items/damaged_anchor",
+      "materials": [
+        {
+          "item": "/items/pirate_essence",
+          "quantity": 14,
+          "price": 1950
+        },
+        {
+          "item": "/items/holy_cheese",
+          "quantity": 6,
+          "price": 2900
+        }
+      ],
+      "characterConfig": {
+        "characterLevel": 126,
+        "observatoryLevel": 5,
+        "enhancingTea": false,
+        "superEnhancingTea": false,
+        "ultimateTea": true,
+        "luckTea": true,
+        "enhancerShirt": 0,
+        "enhancerPants": 0,
+        "enhancerGloves": 11.2,
+        "speedNecklace": 5.32,
+        "drinkConcentration": 11.2,
+        "enhancerBonus": 5.26,
+        "communityBuff": 29.5
+      }
+    },
+    "恶魔胸甲": {
+      "targetItem": "/items/demonic_plate_body",
+      "targetLevel": 10,
+      "itemLevel": 85,
+      "enhanceCost": 2034,
+      "protectionItem": "/items/demonic_core",
+      "materials": [
+        {
+          "item": "/items/abyssal_essence",
+          "quantity": 32,
+          "price": 260
+        },
+        {
+          "item": "/items/holy_cheese",
+          "quantity": 4,
+          "price": 2900
+        }
+      ],
+      "characterConfig": {
+        "characterLevel": 126,
+        "observatoryLevel": 5,
+        "enhancingTea": false,
+        "superEnhancingTea": false,
+        "ultimateTea": true,
+        "luckTea": true,
+        "enhancerShirt": 0,
+        "enhancerPants": 0,
+        "enhancerGloves": 11.2,
+        "speedNecklace": 5.32,
+        "drinkConcentration": 11.2,
+        "enhancerBonus": 5.26,
+        "communityBuff": 29.5
+      }
+    },
+    "巨像胸甲": {
+      "targetItem": "/items/colossus_plate_body",
+      "targetLevel": 10,
+      "itemLevel": 85,
+      "enhanceCost": 2034,
+      "protectionItem": "/items/colossus_core",
+      "materials": [
+        {
+          "item": "/items/golem_essence",
+          "quantity": 32,
+          "price": 260
+        },
+        {
+          "item": "/items/holy_cheese",
+          "quantity": 4,
+          "price": 2900
+        }
+      ],
+      "characterConfig": {
+        "characterLevel": 126,
+        "observatoryLevel": 5,
+        "enhancingTea": false,
+        "superEnhancingTea": false,
+        "ultimateTea": true,
+        "luckTea": true,
+        "enhancerShirt": 0,
+        "enhancerPants": 0,
+        "enhancerGloves": 11.2,
+        "speedNecklace": 5.32,
+        "drinkConcentration": 11.2,
+        "enhancerBonus": 5.26,
+        "communityBuff": 29.5
+      }
+    },
+    "魔术师帽": {
+      "targetItem": "/items/magicians_hat",
+      "targetLevel": 10,
+      "itemLevel": 95,
+      "enhanceCost": 4815,
+      "protectionItem": "/items/magicians_cloth",
+      "materials": [
+        {
+          "item": "/items/sinister_essence",
+          "quantity": 10,
+          "price": 980
+        },
+        {
+          "item": "/items/radiant_fabric",
+          "quantity": 6,
+          "price": 2900
+        }
+      ],
+      "characterConfig": {
+        "characterLevel": 126,
+        "observatoryLevel": 5,
+        "enhancingTea": false,
+        "superEnhancingTea": false,
+        "ultimateTea": true,
+        "luckTea": true,
+        "enhancerShirt": 0,
+        "enhancerPants": 0,
+        "enhancerGloves": 11.2,
+        "speedNecklace": 5.32,
+        "drinkConcentration": 11.2,
+        "enhancerBonus": 5.26,
+        "communityBuff": 29.5
+      }
+    },
+    "杂技师兜帽": {
+      "targetItem": "/items/acrobatic_hood",
+      "targetLevel": 10,
+      "itemLevel": 95,
+      "enhanceCost": 4815,
+      "protectionItem": "/items/acrobats_ribbon",
+      "materials": [
+        {
+          "item": "/items/sinister_essence",
+          "quantity": 10,
+          "price": 980
+        },
+        {
+          "item": "/items/umbral_leather",
+          "quantity": 6,
+          "price": 2200
+        }
+      ],
+      "characterConfig": {
+        "characterLevel": 126,
+        "observatoryLevel": 5,
+        "enhancingTea": false,
+        "superEnhancingTea": false,
+        "ultimateTea": true,
+        "luckTea": true,
+        "enhancerShirt": 0,
+        "enhancerPants": 0,
+        "enhancerGloves": 11.2,
+        "speedNecklace": 5.32,
+        "drinkConcentration": 11.2,
+        "enhancerBonus": 5.26,
+        "communityBuff": 29.5
+      }
+    },
+    "掠夺者头盔": {
+      "targetItem": "/items/corsair_helmet",
+      "targetLevel": 10,
+      "itemLevel": 95,
+      "enhanceCost": 4815,
+      "protectionItem": "/items/corsair_crest",
+      "materials": [
+        {
+          "item": "/items/pirate_essence",
+          "quantity": 10,
+          "price": 1950
+        },
+        {
+          "item": "/items/holy_cheese",
+          "quantity": 6,
+          "price": 2900
+        }
+      ],
+      "characterConfig": {
+        "characterLevel": 126,
+        "observatoryLevel": 5,
+        "enhancingTea": false,
+        "superEnhancingTea": false,
+        "ultimateTea": true,
+        "luckTea": true,
+        "enhancerShirt": 0,
+        "enhancerPants": 0,
+        "enhancerGloves": 11.2,
+        "speedNecklace": 5.32,
+        "drinkConcentration": 11.2,
+        "enhancerBonus": 5.26,
+        "communityBuff": 29.5
+      }
+    },
+    "蓬松红帽子": {
+      "targetItem": "/items/fluffy_red_hat",
+      "targetLevel": 10,
+      "itemLevel": 80,
+      "enhanceCost": 1345,
+      "protectionItem": "/items/red_panda_fluff",
+      "materials": [
+        {
+          "item": "/items/bear_essence",
+          "quantity": 20,
+          "price": 90
+        },
+        {
+          "item": "/items/umbral_leather",
+          "quantity": 1,
+          "price": 2200
+        },
+        {
+          "item": "/items/radiant_fabric",
+          "quantity": 1,
+          "price": 2900
+        },
+        {
+          "item": "/items/beast_leather",
+          "quantity": 1,
+          "price": 1200
+        },
+        {
+          "item": "/items/silk_fabric",
+          "quantity": 1,
+          "price": 1950
+        }
+      ],
+      "characterConfig": {
+        "characterLevel": 126,
+        "observatoryLevel": 5,
+        "enhancingTea": false,
+        "superEnhancingTea": false,
+        "ultimateTea": true,
+        "luckTea": true,
+        "enhancerShirt": 0,
+        "enhancerPants": 0,
+        "enhancerGloves": 11.2,
+        "speedNecklace": 5.32,
+        "drinkConcentration": 11.2,
+        "enhancerBonus": 5.26,
+        "communityBuff": 29.5
+      }
+    },
+    "红色厨师帽": {
+      "targetItem": "/items/red_culinary_hat",
+      "targetLevel": 10,
+      "itemLevel": 60,
+      "enhanceCost": 319,
+      "protectionItem": "/items/red_panda_fluff",
+      "materials": [
+        {
+          "item": "/items/bear_essence",
+          "quantity": 30,
+          "price": 90
+        },
+        {
+          "item": "/items/beast_leather",
+          "quantity": 3,
+          "price": 1200
+        },
+        {
+          "item": "/items/silk_fabric",
+          "quantity": 3,
+          "price": 1950
+        },
+        {
+          "item": "/items/gobo_leather",
+          "quantity": 3,
+          "price": 940
+        },
+        {
+          "item": "/items/bamboo_fabric",
+          "quantity": 3,
+          "price": 245
+        }
+      ],
+      "characterConfig": {
+        "characterLevel": 126,
+        "observatoryLevel": 5,
+        "enhancingTea": false,
+        "superEnhancingTea": false,
+        "ultimateTea": true,
+        "luckTea": true,
+        "enhancerShirt": 0,
+        "enhancerPants": 0,
+        "enhancerGloves": 11.2,
+        "speedNecklace": 5.32,
+        "drinkConcentration": 11.2,
+        "enhancerBonus": 5.26,
+        "communityBuff": 29.5
+      }
+    },
+    "主教法典": {
+      "targetItem": "/items/bishops_codex",
+      "targetLevel": 10,
+      "itemLevel": 95,
+      "enhanceCost": 4815,
+      "protectionItem": "/items/bishops_scroll",
+      "materials": [
+        {
+          "item": "/items/enchanted_essence",
+          "quantity": 12,
+          "price": 1600
+        },
+        {
+          "item": "/items/crushed_moonstone",
+          "quantity": 2,
+          "price": 3200
+        },
+        {
+          "item": "/items/crushed_amethyst",
+          "quantity": 2,
+          "price": 2200
+        }
+      ],
+      "characterConfig": {
+        "characterLevel": 126,
+        "observatoryLevel": 5,
+        "enhancingTea": false,
+        "superEnhancingTea": false,
+        "ultimateTea": true,
+        "luckTea": true,
+        "enhancerShirt": 0,
+        "enhancerPants": 0,
+        "enhancerGloves": 11.2,
+        "speedNecklace": 5.32,
+        "drinkConcentration": 11.2,
+        "enhancerBonus": 5.26,
+        "communityBuff": 29.5
+      }
+    },
+    "元素之书": {
+      "targetItem": "/items/tome_of_the_elements",
+      "targetLevel": 10,
+      "itemLevel": 70,
+      "enhanceCost": 622,
+      "protectionItem": "/items/tome_of_the_elements",
+      "materials": [
+        {
+          "item": "/items/sorcerer_essence",
+          "quantity": 12,
+          "price": 130
+        }
+      ],
+      "characterConfig": {
+        "characterLevel": 126,
+        "observatoryLevel": 5,
+        "enhancingTea": false,
+        "superEnhancingTea": false,
+        "ultimateTea": true,
+        "luckTea": true,
+        "enhancerShirt": 0,
+        "enhancerPants": 0,
+        "enhancerGloves": 11.2,
+        "speedNecklace": 5.32,
+        "drinkConcentration": 11.2,
+        "enhancerBonus": 5.26,
+        "communityBuff": 29.5
+      }
+    },
+    "蝎狮盾": {
+      "targetItem": "/items/manticore_shield",
+      "targetLevel": 10,
+      "itemLevel": 85,
+      "enhanceCost": 2034,
+      "protectionItem": "/items/manticore_sting",
+      "materials": [
+        {
+          "item": "/items/chimerical_essence",
+          "quantity": 12,
+          "price": 840
+        },
+        {
+          "item": "/items/arcane_lumber",
+          "quantity": 3,
+          "price": 2750
+        }
+      ],
+      "characterConfig": {
+        "characterLevel": 126,
+        "observatoryLevel": 5,
+        "enhancingTea": false,
+        "superEnhancingTea": false,
+        "ultimateTea": true,
+        "luckTea": true,
+        "enhancerShirt": 0,
+        "enhancerPants": 0,
+        "enhancerGloves": 11.2,
+        "speedNecklace": 5.32,
+        "drinkConcentration": 11.2,
+        "enhancerBonus": 5.26,
+        "communityBuff": 29.5
+      }
+    },
+    "骑士盾": {
+      "targetItem": "/items/knights_aegis",
+      "targetLevel": 10,
+      "itemLevel": 95,
+      "enhanceCost": 4815,
+      "protectionItem": "/items/knights_ingot",
+      "materials": [
+        {
+          "item": "/items/enchanted_essence",
+          "quantity": 12,
+          "price": 1600
+        },
+        {
+          "item": "/items/holy_cheese",
+          "quantity": 6,
+          "price": 2900
+        }
+      ],
+      "characterConfig": {
+        "characterLevel": 126,
+        "observatoryLevel": 5,
+        "enhancingTea": false,
+        "superEnhancingTea": false,
+        "ultimateTea": true,
+        "luckTea": true,
+        "enhancerShirt": 0,
+        "enhancerPants": 0,
+        "enhancerGloves": 11.2,
+        "speedNecklace": 5.32,
+        "drinkConcentration": 11.2,
+        "enhancerBonus": 5.26,
+        "communityBuff": 29.5
+      }
+    },
+    "吸血鬼短剑": {
+      "targetItem": "/items/vampire_fang_dirk",
+      "targetLevel": 10,
+      "itemLevel": 85,
+      "enhanceCost": 2034,
+      "protectionItem": "/items/vampire_fang",
+      "materials": [
+        {
+          "item": "/items/twilight_essence",
+          "quantity": 12,
+          "price": 260
+        },
+        {
+          "item": "/items/holy_cheese",
+          "quantity": 3,
+          "price": 2900
+        }
+      ],
+      "characterConfig": {
+        "characterLevel": 126,
+        "observatoryLevel": 5,
+        "enhancingTea": false,
+        "superEnhancingTea": false,
+        "ultimateTea": true,
+        "luckTea": true,
+        "enhancerShirt": 0,
+        "enhancerPants": 0,
+        "enhancerGloves": 11.2,
+        "speedNecklace": 5.32,
+        "drinkConcentration": 11.2,
+        "enhancerBonus": 5.26,
+        "communityBuff": 29.5
+      }
+    },
+    "掌上监工": {
+      "targetItem": "/items/eye_watch",
+      "targetLevel": 10,
+      "itemLevel": 60,
+      "enhanceCost": 319,
+      "protectionItem": "/items/eye_of_the_watcher",
+      "materials": [
+        {
+          "item": "/items/eyessence",
+          "quantity": 30,
+          "price": 37
+        },
+        {
+          "item": "/items/rainbow_cheese",
+          "quantity": 3,
+          "price": 2000
+        },
+        {
+          "item": "/items/redwood_lumber",
+          "quantity": 3,
+          "price": 1800
+        },
+        {
+          "item": "/items/crimson_cheese",
+          "quantity": 3,
+          "price": 1650
+        },
+        {
+          "item": "/items/ginkgo_lumber",
+          "quantity": 3,
+          "price": 1550
+        }
+      ],
+      "characterConfig": {
+        "characterLevel": 126,
+        "observatoryLevel": 5,
+        "enhancingTea": false,
+        "superEnhancingTea": false,
+        "ultimateTea": true,
+        "luckTea": true,
+        "enhancerShirt": 0,
+        "enhancerPants": 0,
+        "enhancerGloves": 11.2,
+        "speedNecklace": 5.32,
+        "drinkConcentration": 11.2,
+        "enhancerBonus": 5.26,
+        "communityBuff": 29.5
+      }
+    },
+    "炽焰三叉戟": {
+      "targetItem": "/items/blazing_trident",
+      "targetLevel": 10,
+      "itemLevel": 95,
+      "enhanceCost": 4815,
+      "protectionItem": "/items/mirror_of_protection",
+      "materials": [
+        {
+          "item": "/items/pirate_essence",
+          "quantity": 18,
+          "price": 1950
+        },
+        {
+          "item": "/items/arcane_lumber",
+          "quantity": 9,
+          "price": 2750
+        },
+        {
+          "item": "/items/crushed_amethyst",
+          "quantity": 1,
+          "price": 2200
+        }
+      ],
+      "characterConfig": {
+        "characterLevel": 126,
+        "observatoryLevel": 5,
+        "enhancingTea": false,
+        "superEnhancingTea": false,
+        "ultimateTea": true,
+        "luckTea": true,
+        "enhancerShirt": 0,
+        "enhancerPants": 0,
+        "enhancerGloves": 11.2,
+        "speedNecklace": 5.32,
+        "drinkConcentration": 11.2,
+        "enhancerBonus": 5.26,
+        "communityBuff": 29.5
+      }
+    },
+    "绽放三叉戟": {
+      "targetItem": "/items/blooming_trident",
+      "targetLevel": 10,
+      "itemLevel": 95,
+      "enhanceCost": 4815,
+      "protectionItem": "/items/mirror_of_protection",
+      "materials": [
+        {
+          "item": "/items/pirate_essence",
+          "quantity": 18,
+          "price": 1950
+        },
+        {
+          "item": "/items/arcane_lumber",
+          "quantity": 9,
+          "price": 2750
+        },
+        {
+          "item": "/items/crushed_amethyst",
+          "quantity": 1,
+          "price": 2200
+        }
+      ],
+      "characterConfig": {
+        "characterLevel": 126,
+        "observatoryLevel": 5,
+        "enhancingTea": false,
+        "superEnhancingTea": false,
+        "ultimateTea": true,
+        "luckTea": true,
+        "enhancerShirt": 0,
+        "enhancerPants": 0,
+        "enhancerGloves": 11.2,
+        "speedNecklace": 5.32,
+        "drinkConcentration": 11.2,
+        "enhancerBonus": 5.26,
+        "communityBuff": 29.5
+      }
+    },
+    "涟漪三叉戟": {
+      "targetItem": "/items/rippling_trident",
+      "targetLevel": 10,
+      "itemLevel": 95,
+      "enhanceCost": 4815,
+      "protectionItem": "/items/mirror_of_protection",
+      "materials": [
+        {
+          "item": "/items/pirate_essence",
+          "quantity": 18,
+          "price": 1950
+        },
+        {
+          "item": "/items/arcane_lumber",
+          "quantity": 9,
+          "price": 2750
+        },
+        {
+          "item": "/items/crushed_amethyst",
+          "quantity": 1,
+          "price": 2200
+        }
+      ],
+      "characterConfig": {
+        "characterLevel": 126,
+        "observatoryLevel": 5,
+        "enhancingTea": false,
+        "superEnhancingTea": false,
+        "ultimateTea": true,
+        "luckTea": true,
+        "enhancerShirt": 0,
+        "enhancerPants": 0,
+        "enhancerGloves": 11.2,
+        "speedNecklace": 5.32,
+        "drinkConcentration": 11.2,
+        "enhancerBonus": 5.26,
+        "communityBuff": 29.5
+      }
+    },
+    "鹿角兔之仗": {
+      "targetItem": "/items/jackalope_staff",
+      "targetLevel": 10,
+      "itemLevel": 85,
+      "enhanceCost": 2034,
+      "protectionItem": "/items/jackalope_antler",
+      "materials": [
+        {
+          "item": "/items/chimerical_essence",
+          "quantity": 18,
+          "price": 840
+        },
+        {
+          "item": "/items/arcane_lumber",
+          "quantity": 4,
+          "price": 2750
+        }
+      ],
+      "characterConfig": {
+        "characterLevel": 126,
+        "observatoryLevel": 5,
+        "enhancingTea": false,
+        "superEnhancingTea": false,
+        "ultimateTea": true,
+        "luckTea": true,
+        "enhancerShirt": 0,
+        "enhancerPants": 0,
+        "enhancerGloves": 11.2,
+        "speedNecklace": 5.32,
+        "drinkConcentration": 11.2,
+        "enhancerBonus": 5.26,
+        "communityBuff": 29.5
+      }
+    },
+    "炼狱法杖": {
+      "targetItem": "/items/infernal_battlestaff",
+      "targetLevel": 10,
+      "itemLevel": 85,
+      "enhanceCost": 2034,
+      "protectionItem": "/items/infernal_ember",
+      "materials": [
+        {
+          "item": "/items/abyssal_essence",
+          "quantity": 18,
+          "price": 260
+        },
+        {
+          "item": "/items/arcane_lumber",
+          "quantity": 4,
+          "price": 2750
+        }
+      ],
+      "characterConfig": {
+        "characterLevel": 126,
+        "observatoryLevel": 5,
+        "enhancingTea": false,
+        "superEnhancingTea": false,
+        "ultimateTea": true,
+        "luckTea": true,
+        "enhancerShirt": 0,
+        "enhancerPants": 0,
+        "enhancerGloves": 11.2,
+        "speedNecklace": 5.32,
+        "drinkConcentration": 11.2,
+        "enhancerBonus": 5.26,
+        "communityBuff": 29.5
+      }
+    },
+    "冰霜法杖": {
+      "targetItem": "/items/frost_staff",
+      "targetLevel": 10,
+      "itemLevel": 85,
+      "enhanceCost": 2034,
+      "protectionItem": "/items/frost_sphere",
+      "materials": [
+        {
+          "item": "/items/sorcerer_essence",
+          "quantity": 18,
+          "price": 130
+        },
+        {
+          "item": "/items/arcane_lumber",
+          "quantity": 4,
+          "price": 2750
+        }
+      ],
+      "characterConfig": {
+        "characterLevel": 126,
+        "observatoryLevel": 5,
+        "enhancingTea": false,
+        "superEnhancingTea": false,
+        "ultimateTea": true,
+        "luckTea": true,
+        "enhancerShirt": 0,
+        "enhancerPants": 0,
+        "enhancerGloves": 11.2,
+        "speedNecklace": 5.32,
+        "drinkConcentration": 11.2,
+        "enhancerBonus": 5.26,
+        "communityBuff": 29.5
+      }
+    },
+    "裂空之怒": {
+      "targetItem": "/items/sundering_crossbow",
+      "targetLevel": 10,
+      "itemLevel": 95,
+      "enhanceCost": 4815,
+      "protectionItem": "/items/sundering_jewel",
+      "materials": [
+        {
+          "item": "/items/enchanted_essence",
+          "quantity": 18,
+          "price": 1600
+        },
+        {
+          "item": "/items/arcane_lumber",
+          "quantity": 9,
+          "price": 2750
+        },
+        {
+          "item": "/items/crushed_jade",
+          "quantity": 1,
+          "price": 2200
+        }
+      ],
+      "characterConfig": {
+        "characterLevel": 126,
+        "observatoryLevel": 5,
+        "enhancingTea": false,
+        "superEnhancingTea": false,
+        "ultimateTea": true,
+        "luckTea": true,
+        "enhancerShirt": 0,
+        "enhancerPants": 0,
+        "enhancerGloves": 11.2,
+        "speedNecklace": 5.32,
+        "drinkConcentration": 11.2,
+        "enhancerBonus": 5.26,
+        "communityBuff": 29.5
+      }
+    },
+    "灵魂猎手弩": {
+      "targetItem": "/items/soul_hunter_crossbow",
+      "targetLevel": 10,
+      "itemLevel": 85,
+      "enhanceCost": 2034,
+      "protectionItem": "/items/soul_fragment",
+      "materials": [
+        {
+          "item": "/items/abyssal_essence",
+          "quantity": 18,
+          "price": 260
+        },
+        {
+          "item": "/items/arcane_lumber",
+          "quantity": 4,
+          "price": 2750
+        }
+      ],
+      "characterConfig": {
+        "characterLevel": 126,
+        "observatoryLevel": 5,
+        "enhancingTea": false,
+        "superEnhancingTea": false,
+        "ultimateTea": true,
+        "luckTea": true,
+        "enhancerShirt": 0,
+        "enhancerPants": 0,
+        "enhancerGloves": 11.2,
+        "speedNecklace": 5.32,
+        "drinkConcentration": 11.2,
+        "enhancerBonus": 5.26,
+        "communityBuff": 29.5
+      }
+    },
+    "混沌连枷": {
+      "targetItem": "/items/chaotic_flail",
+      "targetLevel": 10,
+      "itemLevel": 95,
+      "enhanceCost": 4815,
+      "protectionItem": "/items/chaotic_chain",
+      "materials": [
+        {
+          "item": "/items/sinister_essence",
+          "quantity": 18,
+          "price": 980
+        },
+        {
+          "item": "/items/holy_cheese",
+          "quantity": 8,
+          "price": 2900
+        },
+        {
+          "item": "/items/arcane_log",
+          "quantity": 8,
+          "price": 620
+        },
+        {
+          "item": "/items/crushed_garnet",
+          "quantity": 1,
+          "price": 2150
+        }
+      ],
+      "characterConfig": {
+        "characterLevel": 126,
+        "observatoryLevel": 5,
+        "enhancingTea": false,
+        "superEnhancingTea": false,
+        "ultimateTea": true,
+        "luckTea": true,
+        "enhancerShirt": 0,
+        "enhancerPants": 0,
+        "enhancerGloves": 11.2,
+        "speedNecklace": 5.32,
+        "drinkConcentration": 11.2,
+        "enhancerBonus": 5.26,
+        "communityBuff": 29.5
+      }
+    },
+    "君王之剑": {
+      "targetItem": "/items/regal_sword",
+      "targetLevel": 10,
+      "itemLevel": 95,
+      "enhanceCost": 4815,
+      "protectionItem": "/items/regal_jewel",
+      "materials": [
+        {
+          "item": "/items/enchanted_essence",
+          "quantity": 18,
+          "price": 1600
+        },
+        {
+          "item": "/items/holy_cheese",
+          "quantity": 8,
+          "price": 2900
+        },
+        {
+          "item": "/items/arcane_log",
+          "quantity": 8,
+          "price": 620
+        },
+        {
+          "item": "/items/crushed_garnet",
+          "quantity": 1,
+          "price": 2150
+        }
+      ],
+      "characterConfig": {
+        "characterLevel": 130,
+        "observatoryLevel": 5,
+        "enhancingTea": false,
+        "superEnhancingTea": false,
+        "ultimateTea": true,
+        "luckTea": true,
+        "enhancerShirt": 0,
+        "enhancerPants": 0,
+        "enhancerGloves": 11.2,
+        "speedNecklace": 5.32,
+        "drinkConcentration": 11.2,
+        "enhancerBonus": 5.26,
+        "communityBuff": 29.5
+      }
+    },
+    "狂怒长枪": {
+      "targetItem": "/items/furious_spear",
+      "targetLevel": 10,
+      "itemLevel": 95,
+      "enhanceCost": 4815,
+      "protectionItem": "/items/regal_jewel",
+      "materials": [
+        {
+          "item": "/items/enchanted_essence",
+          "quantity": 18,
+          "price": 1600
+        },
+        {
+          "item": "/items/holy_cheese",
+          "quantity": 8,
+          "price": 2900
+        },
+        {
+          "item": "/items/arcane_log",
+          "quantity": 8,
+          "price": 620
+        },
+        {
+          "item": "/items/crushed_garnet",
+          "quantity": 1,
+          "price": 2150
+        }
+      ],
+      "characterConfig": {
+        "characterLevel": 130,
+        "observatoryLevel": 5,
+        "enhancingTea": false,
+        "superEnhancingTea": false,
+        "ultimateTea": true,
+        "luckTea": true,
+        "enhancerShirt": 0,
+        "enhancerPants": 0,
+        "enhancerGloves": 11.2,
+        "speedNecklace": 5.32,
+        "drinkConcentration": 11.2,
+        "enhancerBonus": 5.26,
+        "communityBuff": 29.5
+      }
+    },
+    "花岗岩大棒": {
+      "targetItem": "/items/granite_bludgeon",
+      "targetLevel": 10,
+      "itemLevel": 85,
+      "enhanceCost": 2034,
+      "protectionItem": "/items/living_granite",
+      "materials": [
+        {
+          "item": "/items/golem_essence",
+          "quantity": 18,
+          "price": 260
+        },
+        {
+          "item": "/items/holy_cheese",
+          "quantity": 4,
+          "price": 2900
+        },
+        {
+          "item": "/items/arcane_log",
+          "quantity": 4,
+          "price": 620
+        }
+      ],
+      "characterConfig": {
+        "characterLevel": 130,
+        "observatoryLevel": 5,
+        "enhancingTea": false,
+        "superEnhancingTea": false,
+        "ultimateTea": true,
+        "luckTea": true,
+        "enhancerShirt": 0,
+        "enhancerPants": 0,
+        "enhancerGloves": 11.2,
+        "speedNecklace": 5.32,
+        "drinkConcentration": 11.2,
+        "enhancerBonus": 5.26,
+        "communityBuff": 29.5
+      }
+    },
+    "石钟长枪": {
+      "targetItem": "/items/stalactite_spear",
+      "targetLevel": 10,
+      "itemLevel": 85,
+      "enhanceCost": 2034,
+      "protectionItem": "/items/stalactite_shard",
+      "materials": [
+        {
+          "item": "/items/golem_essence",
+          "quantity": 18,
+          "price": 260
+        },
+        {
+          "item": "/items/holy_cheese",
+          "quantity": 4,
+          "price": 2900
+        },
+        {
+          "item": "/items/arcane_lumber",
+          "quantity": 4,
+          "price": 2750
+        }
+      ],
+      "characterConfig": {
+        "characterLevel": 130,
+        "observatoryLevel": 5,
+        "enhancingTea": false,
+        "superEnhancingTea": false,
+        "ultimateTea": true,
+        "luckTea": true,
+        "enhancerShirt": 0,
+        "enhancerPants": 0,
+        "enhancerGloves": 11.2,
+        "speedNecklace": 5.32,
+        "drinkConcentration": 11.2,
+        "enhancerBonus": 5.26,
+        "communityBuff": 29.5
+      }
+    },
+    "咒怨之弓": {
+      "targetItem": "/items/cursed_bow",
+      "targetLevel": 10,
+      "itemLevel": 95,
+      "enhanceCost": 4815,
+      "protectionItem": "/items/cursed_ball",
+      "materials": [
+        {
+          "item": "/items/sinister_essence",
+          "quantity": 24,
+          "price": 980
+        },
+        {
+          "item": "/items/crushed_jade",
+          "quantity": 1,
+          "price": 2200
+        },
+        {
+          "item": "/items/arcane_lumber",
+          "quantity": 12,
+          "price": 2750
+        }
+      ],
+      "characterConfig": {
+        "characterLevel": 130,
+        "observatoryLevel": 5,
+        "enhancingTea": false,
+        "superEnhancingTea": false,
+        "ultimateTea": true,
+        "luckTea": true,
+        "enhancerShirt": 0,
+        "enhancerPants": 0,
+        "enhancerGloves": 11.2,
+        "speedNecklace": 5.32,
+        "drinkConcentration": 11.2,
+        "enhancerBonus": 5.26,
+        "communityBuff": 29.5
+      }
+    },
+    "狮鹫重盾": {
+      "targetItem": "/items/griffin_bulwark",
+      "targetLevel": 10,
+      "itemLevel": 95,
+      "enhanceCost": 4815,
+      "protectionItem": "/items/griffin_talon",
+      "materials": [
+        {
+          "item": "/items/chimerical_essence",
+          "quantity": 24,
+          "price": 840
+        },
+        {
+          "item": "/items/holy_cheese",
+          "quantity": 12,
+          "price": 2900
+        },
+        {
+          "item": "/items/crushed_amber",
+          "quantity": 1,
+          "price": 1350
+        }
+      ],
+      "characterConfig": {
+        "characterLevel": 130,
+        "observatoryLevel": 5,
+        "enhancingTea": false,
+        "superEnhancingTea": false,
+        "ultimateTea": true,
+        "luckTea": true,
+        "enhancerShirt": 0,
+        "enhancerPants": 0,
+        "enhancerGloves": 11.2,
+        "speedNecklace": 5.32,
+        "drinkConcentration": 11.2,
+        "enhancerBonus": 5.26,
+        "communityBuff": 29.5
+      }
+    },
+    "狼人关刀": {
+      "targetItem": "/items/werewolf_slasher",
+      "targetLevel": 10,
+      "itemLevel": 85,
+      "enhanceCost": 2034,
+      "protectionItem": "/items/werewolf_claw",
+      "materials": [
+        {
+          "item": "/items/twilight_essence",
+          "quantity": 24,
+          "price": 260
+        },
+        {
+          "item": "/items/holy_cheese",
+          "quantity": 6,
+          "price": 2900
+        }
+      ],
+      "characterConfig": {
+        "characterLevel": 126,
+        "observatoryLevel": 5,
+        "enhancingTea": false,
+        "superEnhancingTea": false,
+        "ultimateTea": true,
+        "luckTea": true,
+        "enhancerShirt": 0,
+        "enhancerPants": 0,
+        "enhancerGloves": 11.2,
+        "speedNecklace": 5.32,
+        "drinkConcentration": 11.2,
+        "enhancerBonus": 5.26,
+        "communityBuff": 29.5
+      }
+    },
+    "尖刺重盾": {
+      "targetItem": "/items/spiked_bulwark",
+      "targetLevel": 10,
+      "itemLevel": 85,
+      "enhanceCost": 2034,
+      "protectionItem": "/items/stalactite_shard",
+      "materials": [
+        {
+          "item": "/items/golem_essence",
+          "quantity": 24,
+          "price": 260
+        },
+        {
+          "item": "/items/holy_cheese",
+          "quantity": 6,
+          "price": 2900
+        }
+      ],
+      "characterConfig": {
+        "characterLevel": 126,
+        "observatoryLevel": 5,
+        "enhancingTea": false,
+        "superEnhancingTea": false,
+        "ultimateTea": true,
+        "luckTea": true,
+        "enhancerShirt": 0,
+        "enhancerPants": 0,
+        "enhancerGloves": 11.2,
+        "speedNecklace": 5.32,
+        "drinkConcentration": 11.2,
+        "enhancerBonus": 5.26,
+        "communityBuff": 29.5
+      }
+    },
+    "星空强化器": {
+      "targetItem": "/items/celestial_enhancer",
+      "targetLevel": 10,
+      "itemLevel": 90,
+      "enhanceCost": 3115,
+      "protectionItem": "/items/mirror_of_protection",
+      "materials": [
+        {
+          "item": "/items/enhancing_essence",
+          "quantity": 100,
+          "price": 1350
+        },
+        {
+          "item": "/items/holy_cheese",
+          "quantity": 15,
+          "price": 3000
+        }
+      ]
+    }
+  },
+  "characterConfigs": {
+    "1": {
+      "characterLevel": 126,
+      "observatoryLevel": 5,
+      "enhancingTea": false,
+      "superEnhancingTea": false,
+      "ultimateTea": true,
+      "luckTea": true,
+      "enhancerShirt": 0,
+      "enhancerPants": 0,
+      "enhancerGloves": 11.2,
+      "speedNecklace": 5.32,
+      "drinkConcentration": 11.2,
+      "enhancerBonus": 5.26,
+      "communityBuff": 23.5
+    }
+  },
+  "customPriceConfigs": {
+    "1": {
+      "name": "1",
+      "items": {
+        "/items/royal_nature_robe_bottoms|0": {
+          "itemName": "/items/royal_nature_robe_bottoms",
+          "level": "0",
+          "a": 66000000,
+          "b": 66000000
+        },
+        "/items/royal_nature_robe_top|0": {
+          "itemName": "/items/royal_nature_robe_top",
+          "level": "0",
+          "a": 81000000,
+          "b": 81000000
+        },
+        "/items/royal_water_robe_top|0": {
+          "itemName": "/items/royal_water_robe_top",
+          "level": "0",
+          "a": 81000000,
+          "b": 81000000
+        },
+        "/items/royal_water_robe_bottoms|0": {
+          "itemName": "/items/royal_water_robe_bottoms",
+          "level": "0",
+          "a": 66000000,
+          "b": 66000000
+        },
+        "/items/royal_fire_robe_top|0": {
+          "itemName": "/items/royal_fire_robe_top",
+          "level": "0",
+          "a": 81000000,
+          "b": 81000000
+        },
+        "/items/royal_fire_robe_bottoms|0": {
+          "itemName": "/items/royal_fire_robe_bottoms",
+          "level": "0",
+          "a": 66000000,
+          "b": 66000000
+        },
+        "/items/regal_sword|0": {
+          "itemName": "/items/regal_sword",
+          "level": "0",
+          "a": 250000000,
+          "b": 250000000
+        },
+        "/items/anchorbound_plate_body|0": {
+          "itemName": "/items/anchorbound_plate_body",
+          "level": "0",
+          "a": 94000000,
+          "b": 94000000
+        },
+        "/items/anchorbound_plate_legs|0": {
+          "itemName": "/items/anchorbound_plate_legs",
+          "level": "0",
+          "a": 76000000,
+          "b": 76000000
+        },
+        "/items/acrobatic_hood|0": {
+          "itemName": "/items/acrobatic_hood",
+          "level": "0",
+          "a": 65000000,
+          "b": 65000000
+        }
+      },
+      "savedAt": "2025-08-17T04:45:13.827Z"
+    }
+  },
+  "lastUsedConfig": "1",
+  "enhanceSimulatorState": {
+    "targetItem": "/items/celestial_enhancer",
+    "protectionItem": "/items/mirror_of_protection",
+    "targetLevel": "10",
+    "itemLevel": "90",
+    "enhanceCost": "3115"
+  },
+  "exportTime": "2025-08-18T02:59:32.905Z",
+  "version": "1.1"
+}
